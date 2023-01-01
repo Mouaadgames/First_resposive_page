@@ -1,0 +1,28 @@
+body {
+    background-color: #EEE;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    text-decoration: none;
+    color: #000;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #ffE;
+}
+
+img {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+h2 {}
